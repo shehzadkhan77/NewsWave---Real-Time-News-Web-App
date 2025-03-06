@@ -1,6 +1,6 @@
 # NewsWave - Real-Time News Web App
 
-NewsWave is a professional, responsive, and user-friendly web application that provides real-time news updates from multiple sources, including Dawn News, ARY News, and Geo News. It features a modern design, smooth animations, and a video background for an engaging user experience.
+NewsWave is a professional, responsive, and user-friendly web application that provides real-time news updates from multiple sources, including CNN, BBC, and The Verge. It features a modern design, smooth animations, and a video background for an engaging user experience.
 
 ## Features
 
