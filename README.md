@@ -19,5 +19,6 @@ NewsWave is a professional, responsive, and user-friendly web application that p
 - **Hosting**: GitHub Pages
 
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/03a11110-7757-49a1-82fe-bf63ce16a207" />
-  ![Screenshot 2025-03-06 092045](https://github.com/user-attachments/assets/7f99aaa1-bb50-407c-93e1-dba208a83789)
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/377ec314-b69e-4816-9688-4f44e8b7d8b5" />
+
 
